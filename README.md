@@ -7,6 +7,6 @@
 
 # Readings : 
 * August 2016, Machine Learning is fun! by Adam Geitgey : https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
-
+* August 2016, Reinforcement Learning with Tensorflow series by Arthur Juliani : https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 
 

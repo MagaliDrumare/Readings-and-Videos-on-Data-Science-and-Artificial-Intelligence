@@ -13,4 +13,34 @@
 * August 2016, Machine Learning is fun! by Adam Geitgey : https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 * August 2016, Reinforcement Learning with Tensorflow series by Arthur Juliani : https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
 
+# GitHub DataScience 
+
+1. Mike Bostock (D3, Data Visualisation)
+https://lnkd.in/gSvKV-6
+2. Randy Olson (Python – Matplotlib, Bokeh)
+https://github.com/rhiever
+
+☁️ Big Data & Spark 
+ Favio Vázquez
+https://lnkd.in/gxBU_DE
+
+☁️ Python Machine Learning
+Sebastian Raschka
+https://github.com/rasbt
+
+☁️ R
+1. Jeff Leek
+https://github.com/jtleek
+ 2. David Langer 
+https://github.com/EasyD
+
+☁️ AI & Deep Learning
+1. Michael Nielsen
+https://lnkd.in/gpyTUwu
+ 2. Matthew Blondel 
+https://lnkd.in/gYhHw9N
+ 3. Tarry Singh
+https://lnkd.in/gUcDTkZ
+
+
 
